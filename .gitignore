@@ -1,0 +1,4 @@
+venv
+*.nix
+.envrc
+db.sqlite3
